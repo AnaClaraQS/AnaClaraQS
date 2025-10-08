@@ -26,9 +26,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AnaClaraQS&show_icons=true&theme=radical" alt="GitHub stats" width="500"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=AnaClaraQS&show_icons=true&theme=radical&cache_seconds=1" alt="GitHub stats" width="500"/>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClaraQS&layout=compact&theme=radical" alt="Top languages" width="500"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClaraQS&layout=compact&theme=radical&cache_seconds=1" alt="Top languages" width="500"/>
     </td>
     <td>
       <img src="https://files.catbox.moe/4gr4c8.gif" alt="Personagem animado" width="300"/>
@@ -51,7 +51,7 @@
 
 ---
 
-## 🐍 Contributions
+## 🐍 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaClaraQS/AnaClaraQS/output/github-contribution-grid-snake-dark.svg">
